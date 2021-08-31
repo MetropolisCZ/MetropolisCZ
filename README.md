@@ -7,6 +7,7 @@
 -->
 
 Hi! 👋 I´m MetropolisCZ. My real name is Tomáš Reichel. I am from Czech republic in Europe. 
+
 I´m interested in coding in any language. I tried C# (UWP, WPF, Xamarin.Forms), HTML, PHP, JS, SQL, and developed one Edge/Chrome browser extension.
 
 <!---
